@@ -1,0 +1,1 @@
+# SoDA - OpenCV/ YOLO workshop
